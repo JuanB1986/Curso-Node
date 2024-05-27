@@ -1,5 +1,6 @@
 /* CABECERA */
-html {
+html 
+{
     font-family: sans-serif;
 }
 
@@ -40,7 +41,8 @@ header i {
 
 /* TABLA DE COTIZACIONES */
 
-main {
+main 
+{
     font-size: 20px;
     background-color: rgb(249, 238, 224);
     border: 1px solid rgb(198, 198, 238);
